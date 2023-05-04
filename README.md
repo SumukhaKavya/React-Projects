@@ -37,6 +37,10 @@ Use the "(" and ")" buttons to add brackets to the calculation.
 
 Use the "⌫" button to remove the last entered output.
 
+## Output
+![alt text](Capture1.PNG)
+
+
 ## Contributing
 Contributions are always welcome! If you would like to contribute to this project, please fork the repository and create a pull request.
 
